@@ -1,5 +1,5 @@
-# Hardware-Experiment
-# Ideal sampling
+# YUGANTHIRAN P S 212223060313
+# Ideal sampling - HARDWARE EXPERIMENT 
 ![WhatsApp Image 2025-05-09 at 08 07 09_519b085a](https://github.com/user-attachments/assets/0d1e5bf0-427f-4fdc-b088-1a7cce52e408)
 
 # Natural Sampling
